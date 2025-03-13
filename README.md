@@ -75,7 +75,7 @@ The **dying ReLU problem** occurs when ReLU neurons output zero for all inputs, 
 ![Accuracy Plot](images/accuracy_plot.png)
 
 ### 3. Filters Learned by the First Conv2D Layer
-![Filters](images/filters.png)
+![Filters](https://github.com/richapatel93/Deep-learning/blob/main/CNN%20first%20filter.png)
 
 ### 4. Feature Maps for a Test Image
 ![Feature Maps](images/feature_maps.png)

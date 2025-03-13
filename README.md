@@ -72,7 +72,8 @@ The **dying ReLU problem** occurs when ReLU neurons output zero for all inputs, 
 ![Activation Functions](https://github.com/richapatel93/Deep-learning/blob/main/sigmoid%20and%20tanh%20active%20and%20drived%20function.png)
 ![Activation Functions](https://github.com/richapatel93/Deep-learning/blob/main/ReLU%20and%20RelU%20derivative%20.png)
 ### 2. Training and Validation Accuracy
-![Accuracy Plot](images/accuracy_plot.png)
+![Accuracy Plot](https://github.com/richapatel93/Deep-learning/blob/main/Traing%20and%20testing%20accrancy%20with%20Leaky%20ReLu.png)
+![Accuracy Plot]
 
 ### 3. Filters Learned by the First Conv2D Layer
 ![Filters](https://github.com/richapatel93/Deep-learning/blob/main/CNN%20first%20filter.png)

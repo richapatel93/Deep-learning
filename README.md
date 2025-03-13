@@ -69,7 +69,7 @@ The **dying ReLU problem** occurs when ReLU neurons output zero for all inputs, 
 ## Visualizations
 
 ### 1. Activation Functions and Derivatives
-[Activation Functions](Deep-learning/sigmoid and tanh active and drived function.pn
+[Activation Functions](https://github.com/richapatel93/Deep-learning/blob/main/sigmoid%20and%20tanh%20active%20and%20drived%20function.png)
 ### 2. Training and Validation Accuracy
 ![Accuracy Plot](images/accuracy_plot.png)
 
